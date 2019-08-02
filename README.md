@@ -1,5 +1,5 @@
 # helloGit
 Git講習用
 
-##tamuaki
+## tamuaki
 * 津山高専　1年
